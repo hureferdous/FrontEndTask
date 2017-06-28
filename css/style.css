@@ -1,0 +1,79 @@
+#back{
+	color:#ffffff;
+	font-size:20px;
+	font-family: 'Source Sans Pro', sans-serif;
+	z-index:2;
+	position:absolute;
+	padding: 0px;
+	margin: 50px 0px 0px 30px;
+}
+.space{
+	margin:0px 10px 0px 10px;
+
+}
+#main hr {
+    background-color: #462681; 
+}
+#main{
+    z-index: 1;
+    background-color: #ffffff;
+    margin-top: -50px;
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em; 
+    color:#462681;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+#main h1{margin:20px 0px 0px 20px;
+          font-weight: bold;     
+      }
+
+.right {float:right;} 
+
+#follow{
+	   color:#462681;
+	   text-decoration: none;
+	   margin: 15px 0px 0px 20px;
+	   font-weight: bold;
+} 
+
+.nav_decoration{
+	margin:0px 20px;
+	color:#462681;
+}  
+#navigation a{
+	   color:#462681;
+	   text-decoration: none;
+	   font-weight: bold;
+} 
+#navigation h3{
+       font-weight: bold;
+       text-align: center;
+}      
+
+
+#list_item_electronic{
+	border:none;
+	
+}
+#list_item_design{
+	border:none;
+
+}
+#list_item_transportation{
+	border:none;
+}
+#categories{
+	color:#462681;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+#categories h6{
+	font-weight: bold;
+}
+#categories a{
+	text-decoration: none;
+	 color:#462681;
+
+} 
+	
